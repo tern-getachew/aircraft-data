@@ -17,6 +17,7 @@
 			"temperatureGradient": -96.71,
 			"wingSurfaceArea": 427.82,
 			"buffetLiftCoefficient": 1.1743,
-			"buffetingGradient": 0.50413,
+			"buffetingGradient": 0.50413
 		}
+		]
 }
