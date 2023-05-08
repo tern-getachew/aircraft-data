@@ -11,7 +11,29 @@
         "landingLength": 436.0,
         "wingspan": 13.72,
         "aircraftLength": 63.73,
-        "maximumAltitude": 18797.0
+        "maximumAltitude": 18797.0,
+     "configurationAerodynamicsList": [
+            {
+                "name": "CLEAN",
+                "stallSpeed": 70.0
+            },
+            {
+                "name": "INITIAL_CLIMB",
+                "stallSpeed": 60.0
+            },
+            {
+                "name": "TAKE_OFF",
+                "stallSpeed": 56.0
+            },
+            {
+                "name": "APPROACH",
+                "stallSpeed": 56.0
+            },
+            {
+                "name": "LANDING",
+                "stallSpeed": 55.0
+            }
+        ]
     }
 ]
 }
