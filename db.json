@@ -1,4 +1,5 @@
-[
+{"aircraft-list":
+ [
     {
         "icaoDesignator": "B77W",
         "commercialName": "777-300ER BBJ",
@@ -236,3 +237,4 @@
         }
     }
 ]
+}
